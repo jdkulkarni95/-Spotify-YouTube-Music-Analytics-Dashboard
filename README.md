@@ -132,11 +132,9 @@ By analyzing how musical attributes and platform engagement intersect, the proje
 ## 👨‍💻 Author
 
 **[Your Name]**  
+Jai KulkRNI
 Power BI Developer | Data Analytics Enthusiast  
 🔗 GitHub: [Your GitHub Profile]  
-📧 Email: [Your Email]
+📧 Email: jdkulkarni95@gmail.com
 
 ---
-
-## 📁 Repository Contents
-
